@@ -1,0 +1,5 @@
+ckpts/*
+data/
+*.pth
+*.egg
+./mmdetection/build/
